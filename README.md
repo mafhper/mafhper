@@ -3,12 +3,12 @@
 
 Bem-vindo ao meu perfil do GitHub!
 
-- Desenvolvedor Frontend com foco na criação de interfaces modernas, responsivas e acessíveis.
-- Entusiasta de UI/UX, sempre em busca de melhorar a experiência do usuário através de design intuitivo e boas práticas de usabilidade.
-- Expandindo atuação no Backend, com interesse crescente em arquitetura de sistemas, APIs e integração entre serviços.
-- Experiência em Análise de Dados, utilizando ferramentas como Python, SQL, Power BI e Excel avançado para extração de insights.
-- 🤖 Apaixonado por microcontroladores, com foco em desenvolvimento com MicroPython e CircuitPython para projetos embarcados e IoT.
-- Vivência com automação, aplicações web e integração de sistemas, conectando tecnologias para soluções eficientes e escaláveis.
+- Desenvolvedor Frontend com foco em interfaces modernas, responsivas e acessíveis.
+- Entusiasta de UI/UX, sempre buscando melhorar a experiência do usuário.
+- Atualmente expandindo para o Backend, com interesse em APIs e arquitetura de sistemas.
+- Experiência em Análise de Dados com Python, SQL, Power BI e Excel.
+- 🤖 Apaixonado por microcontroladores, especialmente com MicroPython e CircuitPython.
+- Vivência em automação, aplicações web e integração de sistemas.
 
 ## Tecnologias e Ferramentas
 
