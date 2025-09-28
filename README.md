@@ -25,4 +25,4 @@ Bem-vindo ao meu perfil do GitHub!
 
 ---
 
-> “Em constante evolução, explorando novas tecnologias e disseminando conhecimento. Acredito em uma web livre, inclusiva e acessível para todos.❤️”
+> “Em constante evolução, explorando novas tecnologias e disseminando conhecimento. Acredito em uma web livre e acessível para todos.❤️”
