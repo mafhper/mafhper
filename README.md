@@ -26,7 +26,7 @@ MicroPython • CircuitPython • ESP32 • Arduino • Raspberry Pi
 
 ## Estatísticas
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mafhper&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mafhper&layout=compact&theme=dark&hide_border=true)
 
 ---
 
