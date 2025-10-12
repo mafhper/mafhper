@@ -1,6 +1,6 @@
 # Matheus Pereira
 
-Desenvolvedor Full Stack | Analista de Dados | Engenharia Eletrônica
+Desenvolvedor Web | Analista de Dados | Engenharia Eletrônica
 
 ## Sobre
 
