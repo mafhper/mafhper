@@ -7,22 +7,11 @@ Desenvolvedor Web | Analista de Dados | Engenharia Eletrônica
 Profissional multidisciplinar com experiência em desenvolvimento web, análise de dados e sistemas embarcados. Focado em criar soluções tecnológicas eficientes e bem estruturadas, unindo software, dados e hardware.
 
 **Áreas de Atuação:**
-- Desenvolvimento Frontend com React, TypeScript e JavaScript
+- Desenvolvimento Frontend com React e JavaScript
 - Backend e APIs com Node.js
 - Análise e visualização de dados
 - Desenvolvimento de sistemas embarcados e IoT
 - Automação e integração de sistemas
-
-## Stack Tecnológico
-
-**Desenvolvimento Web**
-JavaScript • TypeScript • React • Node.js • HTML5 • CSS3
-
-**Análise de Dados**
-Python • SQL • Power BI • Excel
-
-**Eletrônica e Embarcados**
-MicroPython • CircuitPython • ESP32 • Arduino • Raspberry Pi
 
 ## Estatísticas
 
