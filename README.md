@@ -12,11 +12,6 @@ Profissional multidisciplinar com experiência em desenvolvimento web, análise 
 - Análise e visualização de dados
 - Desenvolvimento de sistemas embarcados e IoT
 - Automação e integração de sistemas
-
-## Estatísticas
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mafhper&layout=compact&theme=dark&hide_border=true)
-
 ---
 
 *"Em constante evolução, explorando novas tecnologias e disseminando conhecimento. Acredito em uma web livre e acessível para todos."*
