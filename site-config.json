@@ -1,0 +1,171 @@
+{
+  "username": "mafhper",
+  "seo": {
+    "title": "My Portfolio",
+    "description": "Built with PushMaker",
+    "keywords": [
+      "Portfolio",
+      "Developer",
+      "Web"
+    ],
+    "ogImage": "https://raw.githubusercontent.com/mafhper/sample/main/public/Imagens/AuraWall/bg-hero.svg",
+    "useLogoAsFavicon": true,
+    "basePath": "/sample"
+  },
+  "header": {
+    "variant": "minimal",
+    "logoSize": 64,
+    "navOrder": [],
+    "height": 64,
+    "blur": 12,
+    "mobileType": "minimal",
+    "heroBehavior": "fixed"
+  },
+  "theme": {
+    "metadata": {
+      "id": "blog-magazine",
+      "name": "Magazine",
+      "category": "blog",
+      "author": "PushMaker",
+      "description": "Editorial style with bold typography.",
+      "tags": [
+        "editorial",
+        "bold",
+        "magazine"
+      ],
+      "version": "1.0.0",
+      "createdAt": "2024-01-01"
+    },
+    "typography": {
+      "heading": "Lora",
+      "body": "Source Serif Pro",
+      "mono": "Source Code Pro"
+    },
+    "borderRadius": "0px",
+    "spacing": "relaxed",
+    "shadows": "subtle",
+    "animations": "subtle",
+    "headerStyle": "standard",
+    "contentWidth": "standard",
+    "light": {
+      "colors": {
+        "primary": "#dc2626",
+        "secondary": "#000000",
+        "background": "#ffffff",
+        "surface": "#fafafa",
+        "text": "#171717",
+        "muted": "#737373",
+        "accent": "#dc2626"
+      },
+      "effect": "none",
+      "effectParams": {
+        "opacity": 0.1
+      }
+    },
+    "dark": {
+      "colors": {
+        "primary": "#ef4444",
+        "secondary": "#fafafa",
+        "background": "#0a0a0a",
+        "surface": "#171717",
+        "text": "#fafafa",
+        "muted": "#a3a3a3",
+        "accent": "#ef4444"
+      },
+      "effect": "none",
+      "effectParams": {
+        "opacity": 0.1
+      }
+    }
+  },
+  "sections": [
+    {
+      "id": "s1",
+      "type": "hero",
+      "isVisible": true,
+      "title": "Hero Section",
+      "config": {
+        "variant": "terminal",
+        "align": "center",
+        "height": "medium"
+      },
+      "content": {
+        "greeting": "Hello, I'm",
+        "name": "Your Name",
+        "role": "Full Stack Developer",
+        "bio": "I build accessible, pixel-perfect, performant, and delightful web experiences.",
+        "ctaText": "View My Work",
+        "ctaLink": "#projects",
+        "backgroundImage": "https://raw.githubusercontent.com/mafhper/sample/main/public/Imagens/AuraWall/AuraWall-boreal-2025-12-10_17-15.jpg",
+        "avatarUrl": "https://github.com/mafhper.png"
+      }
+    },
+    {
+      "id": "s_1765695711889",
+      "type": "skills",
+      "isVisible": true,
+      "title": "New skills",
+      "config": {
+        "variant": "centered",
+        "height": "small"
+      },
+      "content": {
+        "items": [],
+        "text": "Placeholder text...",
+        "autoSync": true,
+        "displayStyle": "badges"
+      }
+    },
+    {
+      "id": "s2",
+      "type": "projects",
+      "isVisible": true,
+      "title": "Selected Work",
+      "config": {
+        "variant": "grid"
+      },
+      "content": {
+        "items": [
+          {
+            "id": "proj1",
+            "title": "Project Alpha",
+            "description": "A brief description of this project.",
+            "link": "#",
+            "tech": [
+              "React",
+              "Node.js"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "s_1765695692217",
+      "type": "github-activity",
+      "isVisible": true,
+      "title": "New github-activity",
+      "config": {
+        "variant": "grid"
+      },
+      "content": {
+        "items": [],
+        "text": "Placeholder text..."
+      }
+    },
+    {
+      "id": "s3",
+      "type": "contact",
+      "isVisible": true,
+      "title": "Get in Touch",
+      "config": {
+        "variant": "centered"
+      },
+      "content": {
+        "email": "hello@example.com",
+        "github": "github.com"
+      }
+    }
+  ],
+  "posts": [],
+  "logoUrl": "https://raw.githubusercontent.com/mafhper/sample/main/public/Logos/apple-touch-icon.png"
+}
