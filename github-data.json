@@ -5,8 +5,8 @@
       "description": null,
       "url": "https://github.com/mafhper/mafhper",
       "stargazersCount": 0,
-      "language": "Unknown",
-      "updatedAt": "2025-12-30T22:04:55Z"
+      "language": "HTML",
+      "updatedAt": "2025-12-30T22:15:20Z"
     },
     {
       "name": "my-tunne",
@@ -71,14 +71,14 @@
   ],
   "languages": [
     {
+      "name": "HTML",
+      "value": 2,
+      "color": "#e34c26"
+    },
+    {
       "name": "TypeScript",
       "value": 2,
       "color": "#3178c6"
-    },
-    {
-      "name": "HTML",
-      "value": 1,
-      "color": "#e34c26"
     },
     {
       "name": "Astro",
