@@ -1,17 +1,19 @@
 # Matheus Pereira
 
-Desenvolvedor Web | Analista de Dados | Engenharia Eletrônica
+Web Developer | Data Analyst | Electronic Engineering
 
-## Sobre
+## About
 
-Profissional multidisciplinar com experiência em desenvolvimento web, análise de dados e sistemas embarcados. Focado em criar soluções tecnológicas eficientes e bem estruturadas, unindo software, dados e hardware.
+Multidisciplinary professional with experience in web development, data analysis, and embedded systems. Focused on building efficient and well-structured technological solutions by integrating software, data, and hardware.
 
-**Áreas de Atuação:**
-- Desenvolvimento Frontend com React e JavaScript
-- Backend e APIs com Node.js
-- Análise e visualização de dados
-- Desenvolvimento de sistemas embarcados e IoT
-- Automação e integração de sistemas
+**Areas of Expertise:**
+
+* Frontend Development with React and JavaScript
+* Backend and API Development with Node.js
+* Data Analysis and Visualization
+* Embedded Systems and IoT Development
+* Automation and Systems Integration
+
 ---
 
-*"Em constante evolução, explorando novas tecnologias e disseminando conhecimento. Acredito em uma web livre e acessível para todos."*
+*"Continuously evolving, exploring new technologies, and sharing knowledge. I believe in a free and accessible web for everyone."*
