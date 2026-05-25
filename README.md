@@ -1,12 +1,12 @@
 # Matheus Pereira
 
-Web Developer | Data Analyst | Electronic Engineering
+Software Engineer | Frontend | Web, Data & IoT
 
 ## About
 
-Web developer focused on building practical tools for the open web. I work across frontend engineering, data workflows, automation, and embedded systems, with an emphasis on fast, well-structured, and accessible products.
+Software Engineer focused on frontend, with experience across web interfaces, data workflows, automation, and IoT. I build practical tools and experiments with an emphasis on readable interfaces, performance, accessibility, and codebases that stay easy to evolve.
 
-Most of my public projects are built end to end by me, from interface design and application architecture to deployment and ongoing iteration.
+Most of my public repositories are personal projects built end to end, from interface design and application architecture to deployment and maintenance. They are open source studies and utilities rather than commercial products, but I keep the public demos and descriptions aligned with what each project currently does.
 
 **Areas of Expertise:**
 
@@ -19,18 +19,18 @@ Most of my public projects are built end to end by me, from interface design and
 
 ## Public Projects
 
-The following projects focus on technical exploration, research, and tool experimentation. They are intended as personal studies rather than production-ready products or definitive solutions for general use, and do not necessarily reflect my primary professional focus.
+The following projects focus on technical exploration, interface work, and useful browser-first tooling. The list includes the projects currently featured in my portfolio plus a few earlier experiments that are still useful references.
 
 | Icon | Project | Description | Links |
 | --- | --- | --- | --- |
-| <img src="./assets/projects/aurawall.svg" alt="AuraWall icon" width="28" /> | **AuraWall** | Procedural vector wallpaper generator that creates deterministic high-resolution abstract wallpapers directly in the browser. | [Demo](https://mafhper.github.io/aurawall/) · [Repository](https://github.com/mafhper/aurawall) |
-| <img src="./assets/projects/fremit.svg" alt="Fremit icon" width="28" /> | **Fremit** | Browser-based mockup generator for turning links, screenshots, and image URLs into cleaner presentation assets. | [Demo](https://mafhper.github.io/fremit/) · [Repository](https://github.com/mafhper/fremit) |
-| <img src="./assets/projects/imaginizim.svg" alt="Imaginizim icon" width="28" /> | **Imaginizim** | Local-first image compressor for the web with fast processing, quality controls, side-by-side comparison, and ZIP export. | [Demo](https://mafhper.github.io/imaginizim/) · [Repository](https://github.com/mafhper/imaginizim) |
-| <img src="./assets/projects/kaes-keide-inspector.svg" alt="Kaes Keide Inspector icon" width="28" /> | **Kaes Keide Inspector** | Free and open source browser inspector for CSS, HTML, typography, color palettes, accessibility contrast, assets, and site technology stacks. | [Demo](https://mafhper.github.io/kaes-keide-inspector/) · [Repository](https://github.com/mafhper/kaes-keide-inspector) |
-| <img src="./assets/projects/mark-lee.svg" alt="Mark-Lee icon" width="28" /> | **Mark-Lee** | Desktop Markdown editor built with Tauri, focused on performance, split preview, tabs, and workspace navigation. | [Demo](https://mafhper.github.io/mark-lee/) · [Repository](https://github.com/mafhper/mark-lee) |
-| <img src="./assets/projects/personalnews.svg" alt="Personal News icon" width="28" /> | **Personal News** | Personal feed reader and browser homepage that aggregates RSS, Atom, RDF, and YouTube feeds with multiple layouts and cache-first navigation. | [Demo](https://mafhper.github.io/personalnews/) · [Repository](https://github.com/mafhper/personalnews) |
-| <img src="./assets/projects/portfolio.svg" alt="Portfolio icon" width="28" /> | **Portfolio** | Personal portfolio site built with React, Vite, TypeScript, Tailwind CSS, and i18next. | [Demo](https://mafhper.github.io/) · [Repository](https://github.com/mafhper/mafhper.github.io) |
-| <img src="./assets/projects/push_.svg" alt="Push_ icon" width="28" /> | **Push_** | GitHub dashboard for monitoring repositories, CI/CD failures, security alerts, and activity from a single view. | [Demo](https://mafhper.github.io/push_/) · [Repository](https://github.com/mafhper/push_) |
-| <img src="./assets/projects/spread.svg" alt="Spread icon" width="28" /> | **Spread** | High-fidelity link card generator for turning URLs into polished visual assets for sharing and presentation. | [Demo](https://mafhper.github.io/spread/) · [Repository](https://github.com/mafhper/spread) |
+| <img src="./assets/projects/aurawall.svg" alt="AuraWall icon" width="28" /> | **AuraWall** | Abstract wallpaper generator with gesture support and dynamic color systems. | [Demo](https://mafhper.github.io/aurawall/) · [Repository](https://github.com/mafhper/aurawall) |
+| <img src="./assets/projects/fremit.svg" alt="Fremit icon" width="28" /> | **Fremit** | Code mockup editor with theme support and high-resolution export. | [Demo](https://mafhper.github.io/fremit/) · [Repository](https://github.com/mafhper/fremit) |
+| <img src="./assets/projects/imaginizim.svg" alt="Imaginizim icon" width="28" /> | **Imaginizim** | Client-side image optimizer focused on performance and privacy. | [Demo](https://mafhper.github.io/imaginizim/) · [Repository](https://github.com/mafhper/imaginizim) |
+| <img src="./assets/projects/kaes-keide-inspector.svg" alt="Kaes Keide Inspector icon" width="28" /> | **Kaes Keide Inspector** | Browser extension for inspecting CSS, HTML, accessibility, assets, and site technology stacks. | [Demo](https://mafhper.github.io/kaes-keide-inspector/) · [Repository](https://github.com/mafhper/kaes-keide-inspector) |
+| <img src="./assets/projects/mark-lee.svg" alt="Mark-Lee icon" width="28" /> | **Mark-Lee** | Desktop Markdown editor focused on writing flow, real-time preview, and polished PDF export. | [Demo](https://mafhper.github.io/mark-lee/) · [Repository](https://github.com/mafhper/mark-lee) |
+| <img src="./assets/projects/personalnews.svg" alt="Personal News icon" width="28" /> | **Personal News** | Privacy-focused news aggregator with clean design and local-first AI support. | [Demo](https://mafhper.github.io/personalnews/) · [Repository](https://github.com/mafhper/personalnews) |
+| <img src="./assets/projects/portfolio.svg" alt="Portfolio icon" width="28" /> | **Portfolio** | Multilingual portfolio site built with React, Vite, TypeScript, Tailwind CSS, and i18next. | [Demo](https://mafhper.github.io/) · [Repository](https://github.com/mafhper/mafhper.github.io) |
+| <img src="./assets/projects/push_.svg" alt="Push_ icon" width="28" /> | **Push_** | Earlier GitHub dashboard experiment for monitoring repositories, CI/CD failures, security alerts, and activity. | [Demo](https://mafhper.github.io/push_/) · [Repository](https://github.com/mafhper/push_) |
+| <img src="./assets/projects/spread.svg" alt="Spread icon" width="28" /> | **Spread** | Tool for creating and sharing visually rich content cards. | [Demo](https://mafhper.github.io/spread/) · [Repository](https://github.com/mafhper/spread) |
 
-*"Continuously evolving, exploring new technologies, and sharing knowledge. I believe in a free and accessible web for everyone."*
+*"I use these projects to explore useful interfaces, practical tooling, and a free, accessible web."*
