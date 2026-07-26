@@ -21,9 +21,10 @@ Most of my public repositories are personal projects built end to end, from inte
 
 The following projects focus on technical exploration, interface work, and useful browser-first tooling. The list includes the projects currently featured in my portfolio plus a few earlier experiments that are still useful references.
 
-| Icon | Project | Description | Links |
+| Visual | Project | Description | Links |
 | --- | --- | --- | --- |
 | <img src="./assets/projects/aurawall.svg" alt="AuraWall icon" width="28" /> | **AuraWall** | Abstract wallpaper generator with gesture support and dynamic color systems. | [Demo](https://mafhper.github.io/aurawall/) · [Repository](https://github.com/mafhper/aurawall) |
+| <img src="./assets/projects/dinopad.webp" alt="Dinopad interface preview" width="72" /> | **Dinopad** | Mobile-first interactive atlas for exploring deep time, fossils, evolution, and the history of life. | [Demo](https://mafhper.github.io/dinopad/) · [Repository](https://github.com/mafhper/dinopad) |
 | <img src="./assets/projects/fremit.svg" alt="Fremit icon" width="28" /> | **Fremit** | Code mockup editor with theme support and high-resolution export. | [Demo](https://mafhper.github.io/fremit/) · [Repository](https://github.com/mafhper/fremit) |
 | <img src="./assets/projects/icon-core.png" alt="Icon Core icon" width="28" /> | **Icon Core** | Open-source workspace for creating, adjusting, and exporting app icons for web and desktop projects. | [Demo](https://mafhper.github.io/icon-core/) · [Repository](https://github.com/mafhper/icon-core) |
 | <img src="./assets/projects/imaginizim.svg" alt="Imaginizim icon" width="28" /> | **Imaginizim** | Client-side image optimizer focused on performance and privacy. | [Demo](https://mafhper.github.io/imaginizim/) · [Repository](https://github.com/mafhper/imaginizim) |
