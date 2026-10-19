@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img">
+  <title>MicroHUB — icone em placa propria (derivada da SVG-mae)</title>
+  <desc>Simbolo hub-node da mae sobre placa neutra escura. Uso: icone de app, avatar, atalho. Nao e o logo espremido: sem wordmark por legibilidade em tamanho pequeno. Regenerar a partir de logo.svg.</desc>
+  <defs>
+    <linearGradient id="mh-badge-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c2534"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="mh-hub-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2fbfa0"/>
+      <stop offset="1" stop-color="#1d7f6c"/>
+    </linearGradient>
+    <radialGradient id="mh-halo-grad" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2fbfa0" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#2fbfa0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect id="placa" x="0" y="0" width="512" height="512" rx="112" fill="url(#mh-badge-grad)"/>
+  <rect id="placa-borda" x="8" y="8" width="496" height="496" rx="106" fill="none" stroke="#2fbfa0" stroke-opacity="0.35" stroke-width="5"/>
+  <g id="simbolo-hub" transform="translate(256,262) scale(1.32) translate(-256,-186)">
+    <circle id="halo" cx="256" cy="186" r="118" fill="url(#mh-halo-grad)"/>
+    <g id="trilhas" fill="none" stroke-linecap="round">
+      <path id="trilha-esp32" d="M134 186H196" stroke="#f0b429" stroke-width="8"/>
+      <path id="trilha-pico" d="M316 186H378" stroke="#7ee0c3" stroke-width="8"/>
+      <path id="trilha-link" d="M256 246V288" stroke="#2fbfa0" stroke-width="8"/>
+    </g>
+    <g id="placa-esp32">
+      <g id="pinos-esp32" stroke="#f0b429" stroke-width="6" stroke-linecap="round">
+        <path d="M70 164H52"/>
+        <path d="M70 186H52"/>
+        <path d="M70 208H52"/>
+      </g>
+      <rect id="corpo-esp32" x="70" y="148" width="64" height="76" rx="10" fill="#161b22" stroke="#f0b429" stroke-width="6"/>
+      <circle id="no-esp32" cx="102" cy="186" r="8" fill="#f0b429"/>
+    </g>
+    <g id="placa-pico">
+      <g id="pinos-pico" stroke="#7ee0c3" stroke-width="6" stroke-linecap="round">
+        <path d="M442 164H460"/>
+        <path d="M442 186H460"/>
+        <path d="M442 208H460"/>
+      </g>
+      <rect id="corpo-pico" x="378" y="148" width="64" height="76" rx="10" fill="#161b22" stroke="#7ee0c3" stroke-width="6"/>
+      <circle id="no-pico" cx="410" cy="186" r="8" fill="#7ee0c3"/>
+    </g>
+    <rect id="hub" x="196" y="126" width="120" height="120" rx="30" fill="url(#mh-hub-grad)" stroke="#e6edf3" stroke-opacity="0.25" stroke-width="2"/>
+    <g id="glifo-no">
+      <g id="raios-no" stroke="#0d1117" stroke-width="9" stroke-linecap="round">
+        <path d="M256 186L228 158"/>
+        <path d="M256 186L284 158"/>
+        <path d="M256 186L228 214"/>
+        <path d="M256 186L284 214"/>
+      </g>
+      <circle id="no-terminal-sup-esq" cx="228" cy="158" r="6" fill="#0d1117"/>
+      <circle id="no-terminal-sup-dir" cx="284" cy="158" r="6" fill="#0d1117"/>
+      <circle id="no-terminal-inf-esq" cx="228" cy="214" r="6" fill="#0d1117"/>
+      <circle id="no-terminal-inf-dir" cx="284" cy="214" r="6" fill="#0d1117"/>
+      <circle id="no-central" cx="256" cy="186" r="11" fill="#0d1117"/>
+    </g>
+    <circle id="junta-esp32" cx="196" cy="186" r="5" fill="#f0b429"/>
+    <circle id="junta-pico" cx="316" cy="186" r="5" fill="#7ee0c3"/>
+    <circle id="no-link" cx="256" cy="300" r="10" fill="#2fbfa0"/>
+    <circle id="no-link-miolo" cx="256" cy="300" r="4" fill="#0d1117"/>
+  </g>
+</svg>
