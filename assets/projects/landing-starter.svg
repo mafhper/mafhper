@@ -28,6 +28,7 @@
     </clipPath>
   </defs>
   <rect x="56" y="56" width="400" height="400" rx="104" fill="url(#badge)" stroke="#2a3040" stroke-width="4"/>
+  <rect x="56" y="56" width="400" height="400" rx="104" fill="none" stroke="#ffffff" stroke-opacity=".16" stroke-width="3"/>
   <g transform="translate(256 262) scale(1.32) translate(-256 -204)">
     <ellipse cx="256" cy="196" rx="148" ry="64" fill="url(#halo)" opacity=".55"/>
     <rect x="146" y="120" width="220" height="168" rx="20" fill="url(#plate)" stroke="#2a3040" stroke-width="3"/>
